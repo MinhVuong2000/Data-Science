@@ -1,22 +1,23 @@
 # Data-Science
-For learning Data Science Course
-
-Batender for assignment 1
-
-
-Movie Report for Assignment 2
+1. For learning Data Science Course
+- Batender for assignment 1
 
 
-Melbourne House Prediction 3
+- Movie Report for Assignment 2
 
 
-Airline Arrival 4
+- Melbourne House Prediction 3
 
 
-Boston Marathon for Assignment 5
+- Airline Arrival 4
 
 
-Fruit Classification 6
+- Boston Marathon for Assignment 5
 
 
-Backpropagation code
+- Fruit Classification 6
+
+2. Practice
+- Backpropagation code
+- Titanic
+
